@@ -1,0 +1,5 @@
+src/__pycache__/
+.DS_Store
+ref/tex/
+!ref/tex/*.tex
+!ref/tex/*.png
