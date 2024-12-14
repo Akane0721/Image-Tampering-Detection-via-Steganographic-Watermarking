@@ -1,5 +1,5 @@
 # Image-Tampering-Detection-via-Steganographic-Watermarking
-UCSD ECE253 Project
+UCSD ECE253 Digital Image Processing Project
 
 ## References
 [Multipurpose Image Watermarking: Ownership Check,
