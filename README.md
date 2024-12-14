@@ -7,14 +7,15 @@ Tamper Detection and Self-recovery](ref/multipurpose.pdf)
 
 ## Team Member
 @akane0721  
+@pec020  
 @ShawnCai223     
-@pec020
+
 
 ## Modules
-Fragile Watermark: Pixel Modification  
-Robust Watermark: Discrete Wavelet Transform (DWT)  
-Image Recovery: Adaptive Neighborhood Block Averaging (ANBA) Algorithm  
-Simulation and Examination: PSNR, SSIM, BER, etc.   
+**Fragile Watermark**: &nbsp;&nbsp;Pixel Modification  
+**Robust Watermark**: &nbsp;&nbsp;Discrete Wavelet Transform (DWT)  
+**Image Recovery**: &nbsp;&nbsp;Adaptive Neighborhood Block Averaging (ANBA) Algorithm  
+**Simulation and Examination**: &nbsp;&nbsp;PSNR, SSIM, BER, etc.   
 
 ![](ref/result.png)
 
